@@ -1,22 +1,22 @@
-History
+1. History
 Status : Draft
 Reviewer : ChatGPT
 Version : 0.1
 Last Updated : 2026-07-17
 
-Document Name
+2. Document Name
 Knowledge_Transfer_Principles.txt
 
-Purpose
+3. Purpose
 원칙을 정해놓음으로써 진행방향을 잃지 않도록 하기 위해.
 
-Background
+4. Background
 
-Requirements
+5. Requirements
 
-Design
+6. Design
 
-Notes
+7. Notes
 Knowledge Transfer Principles (KJVAMA Project의 지식전수원칙)
 본 King James Version Bible Ask-Me-Anything Project (이하 KJVAMA)는 다음과 같은 지식전수의 원칙을 가진다.
 - 코드는 기능을 만든다.
@@ -25,4 +25,4 @@ Knowledge Transfer Principles (KJVAMA Project의 지식전수원칙)
 - 컴포넌트는 교체 가능하게 만든다.
 - 새로운 개발자는 문서만 보고도 전체 흐름을 이해할 수 있어야 한다.
 
-Decision
+8. Decision
