@@ -15,8 +15,7 @@ Version 0.1
 Initial document created.
 
 ==================================================
-Document Name
-==================================================
+
 Document ID
 
 DOC-001
@@ -39,17 +38,18 @@ Background
 ==================================================
 Scope
 ==================================================
-본 원칙은 UI, DB, API, Documentation, Naming 모든 설계에 적용한다.
-
-==================================================
-Design
-==================================================
-
+This document applies to:
+- UI Design
+- Database Design
+- API Design
+- Documentation
+- Naming Conventions
 
 ==================================================
 Principles
 ==================================================
-Knowledge Transfer Principles (KJVAMA Project의 지식전수원칙)
+The KJVAMA project adopts the following knowledge transfer principles.
+
 본 King James Version Bible Ask-Me-Anything Project (이하 KJVAMA)는 다음과 같은 지식전수의 원칙을 가진다.
 - 코드는 기능을 만든다.
 - 문서는 의도를 남긴다.
@@ -70,3 +70,19 @@ Related Documents
 DOC-002 : Design Principles
 
 DOC-003 : Screen Design Specification
+
+==================================================
+Approval
+==================================================
+Author
+
+김정수 (Jeong-soo, Kim)
+
+Reviewer
+
+ChatGPT
+
+Status
+
+Draft
+
