@@ -1,8 +1,0 @@
-==================================================
-Document Numbering Scheme
-==================================================
-DOC-001  Knowledge Transfer Principles
-DOC-002  Design Principles
-DOC-003  Screen Design Specification
-DOC-004  UI Guidelines
-DOC-005  Decision Log
