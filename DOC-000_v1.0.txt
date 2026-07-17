@@ -1,0 +1,152 @@
+==================================================
+Document Classification Guide
+(Subtitle: Document Numbering and Classification Standard)
+==================================================
+Document ID  : DOC-000
+Version      : 1.0
+Status       : Approved
+Reviewer     : ChatGPT
+Last Updated : 2026-07-18
+
+==================================================
+History
+==================================================
+2026-07-17
+Version 0.1
+- Initial document created.
+
+2026-07-18
+Version 1.0
+- Initial approval.
+
+==================================================
+Purpose
+==================================================
+English Version
+This document defines the document numbering system, classification rules, and documentation standards for the KJVAMA project.
+
+Korean Version
+본 문서는 KJVAMA 프로젝트에서 사용하는 문서 번호 체계, 분류 규칙 및 문서 작성 기준을 정의한다.
+
+==================================================
+Scope
+==================================================
+This document applies to:
+
+- Development documents
+- Project management documents
+- Content production documents
+- Bible knowledge documents
+
+This document does not define the contents of individual documents.
+
+==================================================
+Prefix Rules
+==================================================
+1. DOC-0xx
+English Version
+KJVAMA Development – Database, APIs, User Interface, Features, and System Design
+
+Korean Version
+KJVAMA 개발 - DB, API, UI, 기능, 설계
+
+2. DOC-1xx
+English Version
+Project Management – Operations, Strategy, Scheduling, Branding, Monetization, and Workflow
+
+Korean Version
+운영 및 전략 - 프로젝트 운영, 일정, 브랜딩, 수익화, 업무 프로세스
+
+3. DOC-2xx
+English Version
+Content Production – Scriptwriting, Recording, Editing, and Publishing
+
+Korean Version
+유튜브 콘텐츠 제작 - 스크립트, 촬영, 편집, 업로드
+
+4. DOC-3xx
+English Version
+Bible Knowledge Base – Bible Study Methodology, Series Planning, Doctrinal Research, and Terminology Standards
+
+Korean Version
+성경 연구 및 콘텐츠 자산 - 연구 방법론, 시리즈 기획, 교리 연구, 용어 기준
+
+==================================================
+Document ID Rules
+==================================================
+DOC-000 is reserved for the document classification and numbering standard.
+
+| Range             | Purpose                 |
+| ----------------- | ----------------------- |
+| DOC-000           | Documentation standards |
+| DOC-001 ~ DOC-099 | KJVAMA Development      |
+| DOC-100 ~ DOC-199 | Project Management      |
+| DOC-200 ~ DOC-299 | Content Production      |
+| DOC-300 ~ DOC-399 | Bible Knowledge Base    |
+
+==================================================
+Document Status
+==================================================
+| Status   | Meaning              |
+| -------- | -------------------- |
+| Draft    | Initial version      |
+| Review   | Under review         |
+| Approved | Finalized            |
+| Obsolete | No longer maintained |
+
+==================================================
+Version Rules
+==================================================
+0.x : Draft
+
+1.x : Approved
+
+2.x and later : Major revisions
+
+==================================================
+Document Template
+==================================================
+English Version
+By default, all documents follow the standard structure shown below. Individual documents may add or omit sections as necessary.
+
+- History
+- Purpose
+- Background
+- Scope
+- Principles
+- Decision
+- Reference
+- Approval
+
+Korean Version
+모든 문서가 기본적으로 동일한 구조를 가진다. 문서별로 필요에 따라 항목을 추가하거나 삭제할 수 있다.
+
+- History
+- Purpose
+- Background
+- Scope
+- Principles
+- Decision
+- Reference
+- Approval
+
+==================================================
+Document Maintenance
+==================================================
+This document shall be updated whenever the document classification system or documentation standards are changed.
+
+==================================================
+Approval
+==================================================
+Author        : Jeong-soo Kim
+
+Reviewer      : ChatGPT
+
+Status        : Approved
+
+Approved Date : 2026-07-18
+
+==================================================
+Next Document
+==================================================
+N/A
