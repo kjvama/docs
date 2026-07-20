@@ -1,0 +1,87 @@
+==================================================
+Content Style Guide
+==================================================
+Document ID  : DOC-061
+Version      : 1.0
+Status       : Approved
+Reviewer     : ChatGPT
+Last Updated : 2026-07-20
+
+==================================================
+History
+==================================================
+2026-07-20 Version 0.1 Draft
+- Initial document created.
+
+2026-07-20 Version 1.0 Approved
+- Initial approval.
+
+==================================================
+Writing Style
+==================================================
+Titles
+Use descriptive titles.
+
+Example:
+How to Record a Bible Lecture
+
+NOT
+
+Bible Recording Method
+
+--------------------------------------------------
+
+Sentences
+
+Keep sentences short.
+
+One idea per paragraph.
+
+Keep paragraphs visually clean and easy to scan.
+
+Avoid long paragraphs.
+
+Break text into smaller sections.
+
+Prefer bullet lists over long paragraphs when appropriate.
+
+==================================================
+Blog Layout
+==================================================
+Title
+
+Featured Image
+
+Summary
+
+Table of Contents
+
+Article
+
+Conclusion
+
+Related Articles
+
+==================================================
+Creator Philosophy
+==================================================
+We share experience, not perfection.
+Teach what works in real projects.
+
+==================================================
+Approval
+==================================================
+Author        : Jeong-soo Kim
+
+Reviewer      : ChatGPT
+
+Status        : Approved
+
+Approved Date : 2026-07-20
+
+==================================================
+See Also
+==================================================
+DOC-060 Design Style Guide
+
+DOC-062 Code Style Guide

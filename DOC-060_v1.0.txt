@@ -1,0 +1,156 @@
+==================================================
+Design Style Guide
+==================================================
+Document ID  : DOC-060
+Version      : 1.0
+Status       : Approved
+Reviewer     : ChatGPT
+Last Updated : 2026-07-20
+
+==================================================
+History
+==================================================
+2026-07-20 Version 0.1 Draft
+- Initial document created.
+
+2026-07-20 Version 1.0 Approved
+- Initial approval.
+
+==================================================
+Design Philosophy
+==================================================
+Keep it simple.
+Make the content the hero.
+Avoid unnecessary decoration.
+Consistency over creativity.
+
+==================================================
+Color
+==================================================
+| Color Style | Hex code  |
+| ----------- | --------  |
+| Primary     | #0d6efd |
+| Success     | #198754 |
+| Warning     | #ffc107 |
+| Danger      | #dc3545 |
+| Background  | #ffffff |
+| Border      | #dee2e6 |
+
+Never use hard-coded colors in components.
+Use design tokens whenever possible.
+
+==================================================
+Typography
+==================================================
+| Tag Name | Font Size | Font Weight |
+| -------- | --------- | ----------- |
+| H1       | 36px      | 700         |
+| H2       | 30px      | 700         |
+| H3       | 24px      | 600         |
+| Body     | 16px      | 400         |
+| Small    | 14px      | 400         |
+
+Body text is the default typography.
+
+==================================================
+Buttons
+==================================================
+| Button Style   | CSS Name                  |
+| -------------- | ------------------------- |
+| Primary        | btn btn-primary           |
+| Secondary      | btn btn-outline-secondary |
+| Danger         | btn btn-danger            |
+| Link           | btn btn-link              |
+
+Never invent new button colors.
+Prefer consistency over variety.
+Use one primary button per page whenever possible.
+Use button color to indicate importance, not action type.
+
+==================================================
+Alerts
+==================================================
+Every alert should include a clear title.
+
+Keep messages concise.
+
+Do not use alerts for long explanations.
+One alert should communicate one message only.
+
+Use the following alert types:
+
+Primary
+General notices
+
+Success
+Successful operations
+
+Warning
+Situations requiring user attention
+
+Danger
+Errors or destructive actions
+
+Info
+Helpful or supplementary information
+
+==================================================
+Cards
+==================================================
+Cards should always use a border, rounded corners, and a subtle shadow (shadow-sm).
+Do not use gradients, glass effects, or heavy shadows.
+
+==================================================
+Tables
+==================================================
+Tables must always use the following CSS classes:
+
+- table-striped
+- table-hover
+
+==================================================
+Forms
+==================================================
+Default vertical spacing: 24px
+
+- Label above input
+  Never use placeholders as the only label.
+- Keep validation messages close to the input.
+
+==================================================
+Icons
+==================================================
+Bootstrap Icons only.
+
+Avoid mixing
+
+- FontAwesome
+- Heroicons
+- Lucide
+
+==================================================
+Images
+==================================================
+Article cover images should use a 16:9 aspect ratio whenever possible.
+
+Use rounded corners consistently.
+
+Enable lazy loading.
+
+==================================================
+Approval
+==================================================
+Author        : Jeong-soo Kim
+
+Reviewer      : ChatGPT
+
+Status        : Approved
+
+Approved Date : 2026-07-20
+
+==================================================
+See Also
+==================================================
+DOC-061 Content Style Guide
+
+DOC-062 Code Style Guide

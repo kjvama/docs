@@ -1,0 +1,73 @@
+==================================================
+Code Style Guide
+==================================================
+Document ID  : DOC-062
+Version      : 1.0
+Status       : Approved
+Reviewer     : ChatGPT
+Last Updated : 2026-07-20
+
+==================================================
+History
+==================================================
+2026-07-20 Version 0.1 Draft
+- Initial document created.
+
+2026-07-20 Version 1.0 Approved
+- Initial approval.
+
+==================================================
+Code Style
+==================================================
+Every code block should:
+
+- be complete
+- be copyable
+- include syntax highlighting when possible
+
+Example in C#:
+public async Task SaveAsync(...)
+
+Never use screenshots of code.
+Always provide copyable code.
+
+==================================================
+Future Sections
+==================================================
+Naming
+
+Folder Structure
+
+Architecture
+
+C#
+
+JavaScript
+
+Razor
+
+CSS / SCSS
+
+Database
+
+Comments
+
+Error Handling
+
+==================================================
+Approval
+==================================================
+Author        : Jeong-soo Kim
+
+Reviewer      : ChatGPT
+
+Status        : Approved
+
+Approved Date : 2026-07-20
+
+==================================================
+See Also
+==================================================
+DOC-060 Design Style Guide
+
+DOC-061 Content Style Guide
